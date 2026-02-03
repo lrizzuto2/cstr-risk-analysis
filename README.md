@@ -70,6 +70,8 @@ The risk curve shows a **nonlinear increase** in failure probability with increa
 
 ---
 
+![Risk Curve](risk_curve.png)
+
 ## Files
 
 - `cstr_pid.py` — nonlinear reactor + PID controller simulation  
