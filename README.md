@@ -1,5 +1,11 @@
 # Monte Carlo Risk Analysis of a PID-Controlled CSTR
 
+## Motivation
+
+This project explores how classical control systems can be analyzed using
+modern risk frameworks (Monte Carlo simulation, Value-at-Risk, CVaR),
+bridging chemical engineering and quantitative finance.
+
 ## Overview
 This project models a **Continuous Stirred Tank Reactor (CSTR)** with an exothermic reaction under **PID temperature control**, and performs a **Monte Carlo risk analysis** to quantify the probability of unsafe thermal excursions under stochastic feed disturbances.
 
