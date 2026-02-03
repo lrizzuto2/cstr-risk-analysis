@@ -1,6 +1,3 @@
-🌐 Live site: https://lrizzuto2.github.io/cstr-risk-analysis/
-📓 Full report: CSTR_Risk_Report.ipynb
-
 # Monte Carlo Risk Analysis of a PID-Controlled CSTR
 
 ## Motivation
